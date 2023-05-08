@@ -17,7 +17,6 @@ import java.net.URLEncoder;
 import java.util.List;
 
 /**
- * @date 2021/3/17 10:16
  * @description 文件上传
  */
 @RestController
